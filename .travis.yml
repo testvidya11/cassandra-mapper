@@ -6,6 +6,3 @@ rvm:
   
 services:
   - cassandra
-after_success:
-
- - rm -rf shippable/
